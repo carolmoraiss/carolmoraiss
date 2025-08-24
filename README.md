@@ -1,7 +1,7 @@
 Carol Morais
 
 - 🔭 Atualmente trabalho como BackEnd na equipe de desenvolvimento da Perícia Forense do Estado do Ceará
-- 📚 Cursando Análise e Desenvolvimento de Software na Universidade Estácio de Sá
+- 📚 Formada em Análise e Desenvolvimento de Software na Universidade Estácio de Sá
 
 <div style="display: inline_block"><br>
 <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
