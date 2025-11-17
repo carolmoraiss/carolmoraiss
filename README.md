@@ -25,7 +25,7 @@
 
 <div align="center">
   <img width="65%" alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carolmoraiss&theme=tokyonight"/>
-</div>
+</div> 
 
 <br>
 
